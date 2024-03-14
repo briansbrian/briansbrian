@@ -71,9 +71,13 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
-/* Basic */
-
+header{
+	color: white;
+	:hover{
+		color: rgb(26, 18, 3);
+		transition: 1.8s;
+	}
+}
 	html {
 		box-sizing: border-box;
 	}
@@ -153,7 +157,45 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+nav {
+	color: white;
 
+	:hover {
+		color: rgb(22, 15, 3);
+		transition: 1.4s;
+	}
+}		
+.merryicon img {
+	font-weight: 9000; /* Make the icon bolder */
+	max-width: 70px;
+
+}
+.merryicon { 
+	border-radius: 50%;
+	overflow: hidden;
+	width: 70px;
+	height: 70px;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	background-attachment: scroll;
+	background-color: rgba(255, 255, 255, 0.144);
+	
+	
+	:hover {
+		background-color: rgba(255, 255, 255, 0.658);
+		border-width: 2px;
+		transition: 1.4s;
+	}
+
+}
+.merrydiv {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+}
 /* Wrapper */
 
 	@-moz-keyframes wrapper {
@@ -674,9 +716,8 @@ input, select, textarea {
 					-webkit-transition: all 0.2s ease-in-out;
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
-					border-radius: 100%;
-					border: solid 1px #fff;
 					display: block;
+					border-radius: 50%;
 					font-size: 1.75em;
 					height: 2.5em;
 					line-height: 2.5em;
