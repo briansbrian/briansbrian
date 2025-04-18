@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @briansbrian
-- 👀 I’m interested in AI,Human psychology and Pc architecture...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on fascinating projects.....
-- 😄 Pronouns: Him...
-- ⚡ Fun fact: hahaa...
-----
- # My landing page
- ***https://dailybuzz.me/***
+---
+
+👋🏾 Hi, I’m **Brian mK**  
+🎓 Student of Telecommunications & IT | Aspiring Digital Forensics Analyst  
+🧠 Psychology Enthusiast | Ethical Tech Advocate  
+🌍 Founder of **ThakaraBracelet** – Turning waste into wearable art  
+💡 Passionate about merging **technology**, **creativity**, and **community impact**  
+🔐 Cybersecurity Learner | Justice-driven | Purpose-led  
+📦 Currently building digital projects that make real-world change  
+⚡ “Every bead counts. Every byte matters.”
+
+---
