@@ -62,7 +62,7 @@ Ethics is a feature, not an afterthought.
 ---
 
 ### ✉️ Contact
-[Email](mailto:brianaddress5@gmail.com)
+[Email](mailto:briansaddress5@gmail.com)
 
 ---
 
